@@ -1,1 +1,1 @@
-print("hi do u remember me?")
+print("hi")
